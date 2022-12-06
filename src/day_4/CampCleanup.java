@@ -3,7 +3,7 @@ package day_4;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
-// test if it shows up under my commits in github
+
 public class CampCleanup {
     public static void main(String[] args) throws FileNotFoundException {
         File input = new File("src/day_4/input.txt");
